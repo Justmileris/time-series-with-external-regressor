@@ -1,1 +1,1 @@
-# time-series-with-external-regressor
+# Time series with external regressor
